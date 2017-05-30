@@ -1,2 +1,2 @@
 # hello-world
-python learning
+python learning plans
